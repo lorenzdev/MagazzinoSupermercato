@@ -6,7 +6,7 @@
 
 Cioffi    
 Preti    
-Gitto   
+Minucci    
 
 ### Docente
 
