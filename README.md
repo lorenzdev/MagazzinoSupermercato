@@ -4,9 +4,9 @@
 
 ### Gruppo 3
 
-Nome e cognome  
-Nome e cognome  
-Nome e cognome  
+Cioffi    
+Preti    
+Gitto   
 
 ### Docente
 
